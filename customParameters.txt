@@ -1,0 +1,14 @@
+TR-> TR
+TE-> TE
+TI-> TI
+FoV read-> FOVr
+FoV phase-> FOVp
+Base resolution-> XRES
+Phase resolution-> YRES
+Matrix-> Matrix
+Slices-> #Slices
+Slice thickness-> Slthick
+Dist. factor-> Dist. fact.
+PAT-> PAT
+Scan time-> Scan time
+Notes-> Notes
